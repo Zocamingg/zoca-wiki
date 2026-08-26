@@ -25,5 +25,5 @@
 * [🔒 Kilit Sistemi](towny/kilit-sistemi.md)
 * [🏹 Kuşatma Savaşı Nedir?](towny/kusatma-savasi-nedir.md)
 * [🎯 Trap Sistemi Nedir?](towny/trap-sistemi-nedir.md)
-* [🔥 Yetenekler](towny/yetenekler/README.md)
+* [🔥 Yetenekler](towny/yetenekleryetenekler.md)
   * [🔮 Parti](towny/yetenekler/parti.md)
