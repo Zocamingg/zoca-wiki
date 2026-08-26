@@ -1,8 +1,9 @@
 input: .
 output: .retype
-url: zocanw.com # veya bağlayacağın özel alan adı (ör. wiki.zocanw.com)
+url: zocanw.com
 branding:
-  title: ZOCA WIKI
-  label: v1.0
+  title: Zoca Network Wiki
+navigation:
+  auto: false
 footer:
   copyright: "© Zoca - Tüm hakları saklıdır."
