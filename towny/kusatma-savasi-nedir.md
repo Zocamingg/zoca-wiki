@@ -6,13 +6,11 @@ Kuşatma Savaşı, uluslar arasında yaşanan bir mücadeledir. Savaş başlatma
 
 **Kaybeden ve kazanan nasıl belirlenir?** Kaybeden ve kazananı belirlemek için puan durumu mevcuttur. Her karşı ulustan bir adam öldürdüğünüzde ulusunuza belirli bir kuşatma puanı verilir.
 
-{% raw %}
 ::: warning
 Uyarı!
 
 Kuşatma Savaşının belirli oturum zamanları vardır. Bu zamanlar haricinde kasılan veya kasılmaya çalışılan puanlar geçersizdir! Tüm Oturum Saatleri Aşağıdaki gibidir.
 :::
-{% endraw %}
 
 Tam olarak 12 adet kuşatma oturumu vardır. Her oturumdan sonra tam yarım saat aralık mevcuttur.
 
