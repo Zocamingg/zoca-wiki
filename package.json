@@ -9,9 +9,11 @@
     "docs:build": "vitepress build"
   },
   "dependencies": {
-    "vue": "^3.3.4"
+    "vue": "^3.3.4",
+    "vitepress": "^1.0.0",
+    "@vue/server-renderer": "^3.3.4"
   },
-  "devDependencies": {
-    "vitepress": "^1.0.0"
+  "engines": {
+    "node": ">=16"
   }
 }
