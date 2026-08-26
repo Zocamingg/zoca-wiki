@@ -1,17 +1,9 @@
----
-description: >-
-  ZocaNW sunucusunu tüm oyuncular için hep beraber daha iyi bir sunucu haline
-  getirmek için tüm oyuncularımızın uyması gereken kurallar.
----
-
 # 📓 Genel Kurallar
 
-{% hint style="danger" %}
-**Hey**!
-
-Bu kurallar sunucunun her yerinde geçerlidir.\
+::: danger Hey!
+Bu kurallar sunucunun her yerinde geçerlidir.  
 **Tüm oyuncularımız kuralları okumuş sayılmaktadır!**
-{% endhint %}
+:::
 
 * Sohbeti kullanırken küfür, argo veya hakaretten uzak durulmalıdır.
 * Sunucu içinde ve dışında her üye saygı ve nezaket kurallarına uymalıdır.
@@ -26,4 +18,3 @@ Bu kurallar sunucunun her yerinde geçerlidir.\
 * Kuralların çiğnenmesine başkalarını teşvik etmek yasaktır.
 * Kendini yetkili gibi tanıtmak yasaktır, sunucumuzdan uzaklaştırılırsınız.
 * Dini, milli, siyasi konular tartışmaya kapalıdır, yapılması yasaktır.
-
