@@ -1,0 +1,17 @@
+{
+  "name": "zoca-wiki",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build"
+  },
+  "dependencies": {
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0"
+  }
+}
