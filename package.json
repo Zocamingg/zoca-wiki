@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "vitepress dev",
-    "build": "vitepress build",
+    "build": "vitepress build && ls -la .vitepress/dist || true && echo '---FILES---' && find .vitepress/dist -type f -maxdepth 5 -print || true",
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build"
   },
