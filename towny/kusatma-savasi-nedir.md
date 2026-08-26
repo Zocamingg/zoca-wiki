@@ -1,18 +1,16 @@
 # 🏹 Kuşatma Savaşı Nedir?
 
-**Kuşatma Savaşında** kendi kasabanızı savunabilir veya diğer oyuncularınkileri ele geçirmeye çalışabilirsiniz. Yani savaş ilan edebilir, kuşatma başlatabilir ve stratejik hamlelerle düşman topraklarını ele geçirmeye çalışabilirsiniz. Oyuncular arasında toprak savaşları, kuşatmalar ve genel stratejik rekabet olabilir. Yani Minecraft oynamak artık sadece blokları birleştirmekten ibaret değil, gerçek bir maceraya dönüşüyor!
+**Kuşatma Savaşında** kendi kasabanızı savunabilir veya diğer oyuncularınkileri ele geçirmeye çalışabilirsiniz. Yani savaş ilan edebilir, kuşatma başlatabilir ve stratejik hamlelerle ...
 
-Kuşatma Savaşı, uluslar arasında yaşanan bir mücadeledir. Savaş başlatmak için seçtiğiniz kasabanın ulusuna düşman olmanız gerekiyor. Ulusunuza başka bir ulusu düşman eklemek istiyorsanız da "/n enemy add ulusismi" komutunu kullanabilirsiniz. Eğer hedef kasaba barışçıl bir yerse, maalesef ki savaş açma şansınız yoktur. Siegeler tam 3 gün boyunca sürerlilik göstermektedir.
+Kuşatma Savaşı, uluslar arasında yaşanan bir mücadeledir. Savaş başlatmak için seçtiğiniz kasabanın ulusuna düşman olmanız gerekiyor. Ulusunuza başka bir ulusu düşman eklemek iste[...]
 
-**Kaybeden ve kazanan nasıl belirlenir?** Kaybeden ve kazananı belirlemek için puan durumu mevcuttur. Her karşı ulustan bir adam öldürdüğünüzde ulusunuza belirli bir kuşatma puanı verilir. Kuşatma bölgesinde bulunduğunuz ulusta eğer asker rütbeniz yok ise eşyalarınız yere düşebilir ve asker rütbeniz yok ise öldürdüğünüz adamdan puan kazanamazsınız!
+**Kaybeden ve kazanan nasıl belirlenir?** Kaybeden ve kazananı belirlemek için puan durumu mevcuttur. Her karşı ulustan bir adam öldürdüğünüzde ulusunuza belirli bir kuşatma puanı verilir.
 
-Kuşatma Puanı elde etmenin bir diğer yolu ise bayrağı adı üstünde savunucuysanız savunmak, kuşatmacıysanız kuşatmalısınız. Bayraktan puan almak için **bayrak etrafında** 7 dakika boyunca durmalısınız. Bayrak etrafından ayrılırsanız 7 dakikalık zaman bozulur! Eğer bayrak üzerinden daha fazla puan kazanmak istiyorsanız da daha çok oyuncunun bayrak etrafında durması gerekir. Ne kadar çok oyuncu 7 dakika boyunca bayrak etrafında durabilirse yani bayrak alabilirse o kadar fazla puan kazanma imkanınız olur.
-
-{% hint style="warning" %}
+::: warning
 Uyarı!
 
 Kuşatma Savaşının belirli oturum zamanları vardır. Bu zamanlar haricinde kasılan veya kasılmaya çalışılan puanlar geçersizdir! Tüm Oturum Saatleri Aşağıdaki gibidir.
-{% endhint %}
+:::
 
 Tam olarak 12 adet kuşatma oturumu vardır. Her oturumdan sonra tam yarım saat aralık mevcuttur.
 

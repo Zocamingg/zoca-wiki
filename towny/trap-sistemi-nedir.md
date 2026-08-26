@@ -1,10 +1,10 @@
 # 🎯 Trap Sistemi Nedir?
 
-Sunucuda bulunan PvP ve Trap sistemi end kasabasının üzerine kuruludur. End, binevi PvP atabileceğiniz bir arena türüdür. Trap sistemi de insanları trapinize çekerek onları savunmasız bırakarak rakiplerini öldürmeyi daha kolay hale getirebileceğiniz bir sistemdir. Aynı zamanda kendinize PvP konusunda güveniyorsanız oyuncuların traplerine baskın atabilirsiniz! "/t spawn trap" komutu ile traplerin bulunduğu arsalara yani end kasabasına ulaşabilirsiniz.
+Sunucuda bulunan PvP ve Trap sistemi end kasabasının üzerine kuruludur. End, binevi PvP atabileceğiniz bir arena türüdür. Trap sistemi de insanları trapinize çekerek onları savunmasız bırakır.
 
 ## Trap Nasıl Satın alınır?
 
-End üzerinde trap sahibi olmak istiyorsanız ilk olarak boş bir arazi bulmalısınız. Trapin boşta olup olmadığını kontrol etmek için claim sahibinin end kasabası olup olmadığını kontrol etmelisiniz. Eğer ki trap boştaysa trapin numarasına göre  "/trapal \<numarası>" komutunu kullanabilir ve trap sahibi olabilirsiniz. Trabi başarıyla satın aldın, hayırlı olsun!
+End üzerinde trap sahibi olmak istiyorsanız ilk olarak boş bir arazi bulmalısınız. Trapin boşta olup olmadığını kontrol etmek için claim sahibinin end kasabası olup olmadığını kontrol edin.
 
 ## Trap Sahibi Olmak İçin Bazı Kurallar:
 
@@ -14,5 +14,5 @@ End üzerinde trap sahibi olmak istiyorsanız ilk olarak boş bir arazi bulmalı
 
 ## Trap Ücretleri
 
-İkili Claim Fiyatları: 1700 💸\
+İkili Claim Fiyatları: 1700 💸
 Günlük Vergi: 150 💸
